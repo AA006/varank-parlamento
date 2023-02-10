@@ -3,9 +3,10 @@
         <table id="top_part">
             <tr>
                 <td id="landing" class="animated fadeIn" style="animation-delay:1s;">
-                    <h3>4-6 Mart</h3>
+                    
                     <h1>Varank Gençlik Parlamentosu</h1>
                     <h2>Fikir benim, dinletirim!</h2>
+                    <h3>4-6 Mart</h3>
                     <a class="btn_one"
                         href="https://docs.google.com/forms/d/e/1FAIpQLSdnR3dX0GtzCnBSI7Zn6jAw11_XYzriDGTJgmJ3ghXsCn2fXw/viewform">Başvur</a><br>
                     <table>
@@ -60,7 +61,7 @@ export default {
 }
 
 #landing h2 {
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
     font-family: 'Cinzel', serif;
     color: #d1ab74;
